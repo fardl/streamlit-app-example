@@ -91,3 +91,5 @@ data/
 
 # Si quieres mantener la estructura del directorio:
 !data/.gitkeep
+
+password.txt
